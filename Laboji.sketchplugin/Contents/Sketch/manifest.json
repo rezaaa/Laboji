@@ -1,0 +1,56 @@
+{
+  "name": "Laboji",
+  "description": "Add emoji on layer name like colorful labels",
+  "author": "Mohammad Reza Mahmoudi",
+  "authorEmail": "me@rezamahmoudi.ir",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "🦄 Unicorn",
+      "identifier": "unicorn",
+      "script": "Laboji.js",
+      "handler": "unicornLabel"
+    },
+    {
+      "name": "🐶 Dog",
+      "identifier": "dog",
+      "script": "Laboji.js",
+      "handler": "dogLabel"
+    },
+    {
+      "name": "🦋 Butterfly",
+      "identifier": "butterfly",
+      "script": "Laboji.js",
+      "handler": "butterflyLabel"
+    },
+    {
+      "name": "🐼 Panda",
+      "identifier": "panda",
+      "script": "Laboji.js",
+      "handler": "pandaLabel"
+    },
+    {
+      "name": "💥 Random",
+      "identifier": "random",
+      "script": "Laboji.js",
+      "handler": "randomLabel",
+      "shortcut": "ctrl shift e"
+    }
+  ],
+  "menu": {
+    "title": "Laboji",
+    "items": [
+      "random",
+      "unicorn",
+      "dog",
+      "butterfly",
+      "panda"
+    ]
+  },
+  "version": "0.1.0",
+  "identifier": "Laboji",
+  "disableCocoaScriptPreprocessor": true,
+  "appcast": "https://raw.githubusercontent.com//master/.appcast.xml"
+}
