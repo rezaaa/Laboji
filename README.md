@@ -1,6 +1,6 @@
 # Sketch Laboji
 
-<img src="demo.jpg" width="800">
+<img src="demo.jpg">
 
 A sketch plugin for adding emoji on layer name like colorful labels.
 
