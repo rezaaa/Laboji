@@ -6,15 +6,15 @@ A sketch plugin for adding emoji on layer name like colorful labels.
 
 ## Installation
 
- 1.Download and open english-and-persian-lorem-ipsum-master.zip
- 2.Double click on Enlgish & Persian Lorem Ipsum.sketchplugin file
- 3.That's it...
+ - Download and open Laboji.zip
+ - Double click on Laboji.sketchplugin file
+ - That's it...
 
 ## Usage
 
 Select any layer in Sketch and hit
 
-( ⌃ ⇧ E ) to generate english lorem ipsum.
+( ⌃ ⇧ E ) to add random emoji label.
 or use 'Laboji' from Plugins menu.
 
 ## Feedback
