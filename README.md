@@ -12,9 +12,7 @@ A sketch plugin for adding emoji on layer name like colorful labels.
 
 ## Usage
 
-Select any layer in Sketch and hit
-
-( ⌃ ⇧ E ) to add random emoji label.
+Select any layer in Sketch and hit ( ⌃ ⇧ E ) to add random emoji label.
 or use 'Laboji' from Plugins menu.
 
 ## Feedback
